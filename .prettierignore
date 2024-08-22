@@ -1,0 +1,8 @@
+# eslint.config.js
+node_modules
+dist
+dist-ssr
+*.local
+.vscode/*
+build
+coverage
